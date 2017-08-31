@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/hjacynnbenitez/JavaProject4_ChatSnap" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/obaro/android-sqlite-sample" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Lenovo\Downloads\_Lectures\CS184P - Java Programming IV - Mobile Dev" />
